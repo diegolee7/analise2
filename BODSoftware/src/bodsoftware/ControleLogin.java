@@ -36,8 +36,8 @@ public class ControleLogin {
     }
     public void loadLogin()
     {
-        usuario="adm";
-        senha="adm";
+        usuario="admin";
+        senha="admin";
     }
     
     public void verificarLogin(String usuario,String senha)
