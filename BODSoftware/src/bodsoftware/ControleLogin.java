@@ -36,6 +36,7 @@ public class ControleLogin {
     }
     public void loadLogin()
     {
+        //usuario e senhas
         usuario="admin";
         senha="admin";
     }
